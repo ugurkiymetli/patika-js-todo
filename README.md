@@ -1,7 +1,7 @@
 # ToDo List
 
 Basit yapılacaklar listesi uygulaması.  
-[Patika.dev - Javascript ödev 2.](https://app.patika.dev/moduller/javascript/odev2)  
+[Patika.dev - Javascript - Ödev 2.](https://app.patika.dev/moduller/javascript/odev2)  
 
 
 

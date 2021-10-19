@@ -1,4 +1,4 @@
-# ToDo List
+# ToDo List - [Live Demo](http://ugurkiymetli.com/todo-list.html)
 
 Basit yapılacaklar listesi uygulaması.  
 [Patika.dev - Javascript - Ödev 2.](https://app.patika.dev/moduller/javascript/odev2)  
@@ -15,7 +15,3 @@ Basit yapılacaklar listesi uygulaması.
 ## Yol haritası
 
 - LocalStorage kullanarak girilen notları saklama.
-
-
-
-  
